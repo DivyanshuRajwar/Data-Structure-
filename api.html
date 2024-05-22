@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function displayCoordinates(event) {
+    console.log('Client coordinates (clientX, clientY):', event.clientX, event.clientY);
+    console.log('Page coordinates (pageX, pageY):', event.pageX, event.pageY);
+    console.log('Screen coordinates (screenX, screenY):', event.screenX, event.screenY);
+}
+
+// Event listener for mousemove event
+document.addEventListener('mousemove', displayCoordinates);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
