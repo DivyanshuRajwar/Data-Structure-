@@ -33,15 +33,11 @@ To use the Data Structure and Algorithm Visualizer, open the index.html file in 
 - **Programming Languages:** HTML, CSS, JavaScript
 - **Libraries:** None (vanilla JavaScript)
 
-## Technologies Used
-
-- **Programming Languages:** HTML, CSS, JavaScript
-- **Libraries:** None (vanilla JavaScript)
 
 ## Contact
-Divyanshu Rajwar - your.email@example.com
+- **Gmail :** divyanshurajwar@gmail.com
+- **LinkedIn :** https://www.linkedin.com/in/divyanshu-rajwar-159804259/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-Project Link: https://github.com/your-username/data-structure-algorithm-visualizer
 
 ## Screenshots
 
