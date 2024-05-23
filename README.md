@@ -9,8 +9,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 - [Screenshots](#screenshots)
 - [Live Demo](#live-demo)
@@ -25,6 +23,33 @@ The Data Structure and Algorithm Visualizer is a web-based project designed to m
 - **Searching Algorithms:** Visualize linear and binary search algorithms.
 - **Data Structures:** Visualize fundamental data structures such as arrays, stacks, and queues.
 - **Interactive Interface:** Users can input custom data, generate random data, and observe the step-by-step execution of algorithms.
+
+## Usage
+
+To use the Data Structure and Algorithm Visualizer, open the index.html file in your web browser. The main interface will provide options to select different data structures and algorithms. Users can input custom arrays, select an algorithm, and visualize the step-by-step process of sorting, searching, or manipulating data structures.
+
+## Technologies Used
+
+- **Programming Languages:** HTML, CSS, JavaScript
+- **Libraries:** None (vanilla JavaScript)
+
+## Technologies Used
+
+- **Programming Languages:** HTML, CSS, JavaScript
+- **Libraries:** None (vanilla JavaScript)
+
+## Contact
+Divyanshu Rajwar - your.email@example.com
+
+Project Link: https://github.com/your-username/data-structure-algorithm-visualizer
+
+## Screenshots
+
+
+## Live Demo
+Check out the live demo of the Data Structure and Algorithm Visualizer: [Live Demo](https://divyanshurajwar.github.io/Data-Structure-Visualizer/#about-section)
+
+## Video Demo
 
 ## Installation
 
