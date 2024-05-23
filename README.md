@@ -5,11 +5,11 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
 - [Live Demo](#live-demo)
+- [Installation](#installation)
 
 ## Introduction
 
@@ -29,7 +29,6 @@ To use the Data Structure and Algorithm Visualizer, open the index.html file in 
 ## Technologies Used
 
 - **Programming Languages:** HTML, CSS, JavaScript
-- **Libraries:** None (vanilla JavaScript)
 
 
 ## Contact
