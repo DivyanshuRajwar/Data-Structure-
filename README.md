@@ -39,13 +39,10 @@ To use the Data Structure and Algorithm Visualizer, open the index.html file in 
 - **LinkedIn :** https://www.linkedin.com/in/divyanshu-rajwar-159804259/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
-## Screenshots
-
-
 ## Live Demo
 Check out the live demo of the Data Structure and Algorithm Visualizer: [Live Demo](https://divyanshurajwar.github.io/Data-Structure-Visualizer/#about-section)
 
-## Video Demo
+
 
 ## Installation
 
@@ -53,7 +50,7 @@ Follow these steps to set up the Data Structure and Algorithm Visualizer locally
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/data-structure-algorithm-visualizer.git
+git clone https://github.com/DivyanshuRajwar/Data-Structure-Visualizer.git
 
 # Navigate to the project directory
 cd data-structure-algorithm-visualizer
