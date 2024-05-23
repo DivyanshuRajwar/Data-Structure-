@@ -1,6 +1,5 @@
 # Data Structure and Algorithm Visualizer
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
 
